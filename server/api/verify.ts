@@ -14,7 +14,7 @@ defineRouteMeta({
 
 export default eventHandler(() => {
   return {
-    name: 'Sink',
-    url: 'https://sink.cool',
+    name: 'Link',
+    url: 'https://link.sweb.workers.dev',
   }
 })
